@@ -1,6 +1,6 @@
 # 27_01_2024
 1. Auto Delete Todo List
-     - cd move_type_data
+     - cd AutoDeleteTodoList
      - npm install
      - npm start
 2. Create data from API (OPTIONAL)
